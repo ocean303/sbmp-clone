@@ -1,13 +1,39 @@
 # SBMP Clone
 
-SBMP Clone is a React.js-based replica of the original SBMP website with additional features like a chatbot, voice assistant, and an improved UI.
+SBMP Clone is a React.js-based replica of the original SBMP website, featuring additional enhancements such as a chatbot, voice assistant, and an improved UI.
+
+## Live Demo
+[View the Website](https://keen-daifuku-3476ce.netlify.app)
 
 ## Features
+- Responsive UI with enhanced design
+- Integrated chatbot for user assistance
+- Voice assistant for interactive engagement
+- Built with React.js and Tailwind CSS
 
-- Improved UI
-- Chatbot integration
-- Voice assistant support
-- Improved navigation and user experience
+## Installation
+
+Clone the repository and install dependencies:
+```sh
+git clone https://github.com/your-username/sbmp-clone.git
+cd sbmp-clone
+npm install
+```
+
+### Run the development server:
+```sh
+npm run dev
+```
+
+### Build for production:
+```sh
+npm run build
+```
+
+### Start the production server:
+```sh
+npm start
+```
 
 ## Screenshots
 
@@ -17,46 +43,17 @@ SBMP Clone is a React.js-based replica of the original SBMP website with additio
 ![Image](https://github.com/user-attachments/assets/f4a5061a-f909-40a5-97e9-0adcb023c410)
 ![Image](https://github.com/user-attachments/assets/076b546d-b655-4603-a806-e5aaba28eb9b)
 
-## Installation
-
-Follow these steps to set up the project locally:
-
-### Prerequisites
-- Node.js installed
-- npm or yarn installed
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/sbmp-clone.git
-cd sbmp-clone
-```
-
-### Install Dependencies
-```bash
-npm install
-# or
-yarn install
-```
-
-### Start the Development Server
-```bash
-npm start
-# or
-yarn start
-```
-
-The application should now be running at `http://localhost:3000/`.
-
-## Build for Production
-```bash
-npm run build
-# or
-yarn build
-```
-
-## Contributing
-Feel free to fork this repository and submit pull requests.
+## Technologies Used
+- React.js
+- Tailwind CSS
+- React Router
+- Node.js (Backend, if applicable)
 
 ## License
 This project is licensed under the MIT License.
 
+---
+### Contributors
+- **Prathamesh Charania**
+- **Advait Mane**
+- **Ocean Chaudhary**
