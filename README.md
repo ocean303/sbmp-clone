@@ -1,25 +1,36 @@
 # SBMP Clone
 
-SBMP Clone is a React.js-based clone of the original SBMP website with additional features like a chatbot, voice assistant, and improved UI elements.
-
-## Features
-- React.js-based front-end
-- Chatbot integration
-- Voice assistant feature
-- Improved UI/UX compared to the original SBMP website
+SBMP Clone is a React.js-based clone of the original SBMP website, featuring an improved UI, chatbot, and voice assistant.
 
 ## Live Demo
-[Click here to view the live demo](https://keen-daifuku-3476ce.netlify.app)
+[SBMP Clone - Live](https://keen-daifuku-3476ce.netlify.app)
+
+## Features
+- **React.js** for a dynamic user interface
+- **Chatbot** for assistance
+- **Voice Assistant** for accessibility
+- **Improved UI** for a better user experience
 
 ## Installation
-To set up the project locally, follow these steps:
+Follow these steps to set up the project locally.
 
-```sh
-git clone https://github.com/yourusername/sbmp-clone.git
+### Clone the Repository
+```bash
+git clone https://github.com/ocean303/sbmp-clone.git
 cd sbmp-clone
+```
+
+### Install Dependencies
+```bash
 npm install
+```
+
+
+### Build for Production
+```bash
 npm start
 ```
+
 
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/c1c7c2a5-11f6-4f06-8ef5-43a4f01043ae)
@@ -28,15 +39,6 @@ npm start
 ![Image](https://github.com/user-attachments/assets/f4a5061a-f909-40a5-97e9-0adcb023c410)
 ![Image](https://github.com/user-attachments/assets/076b546d-b655-4603-a806-e5aaba28eb9b)
 
-## Technologies Used
-- React.js
-- Tailwind CSS
-- React Router
-- Material-UI
-
-## Contributing
-Feel free to fork the repository and submit pull requests with improvements!
-
 ## License
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
 
